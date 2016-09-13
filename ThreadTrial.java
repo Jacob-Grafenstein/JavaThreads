@@ -100,8 +100,6 @@ public class ThreadTrial {
         Chooser secondThread = new Chooser(1);
         firstThread.start();
         secondThread.start();
-        
-        
     }
     
 }
